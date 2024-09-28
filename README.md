@@ -47,7 +47,7 @@ Results
 The generated anime faces can be visualized in real-time as the GAN trains. Here are some sample images after training:
 Additionally, you can watch the progression of the generated images over epochs in the following video:
 
-Video link: 
+Video link: https://github.com/intimanjunath/Anime-Face-Generation-with-GANs-Real-time-chat-Application/blob/main/gans_training.mp4 
 
 
 # Assignment 2 - Real-time-chat-Application 
