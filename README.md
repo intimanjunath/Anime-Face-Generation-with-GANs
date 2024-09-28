@@ -9,10 +9,11 @@ Generator: Takes random noise (latent space vectors) as input and outputs synthe
 Discriminator: Distinguishes between real anime face images and fake ones created by the Generator.
 
 Features
-* Medium Article link : https://medium.com/@intimanjunath/anime-face-generation-with-gans-5aacab45022b 
 * Anime Face Generation: The GAN generates anime face images based on random noise.
 * Training with PyTorch: The GAN is trained using PyTorch, leveraging the GPU for faster computations.
 * FID Evaluation: The quality of the generated images is measured using the Frechet Inception Distance (FID) score.
+* Medium Article link : https://medium.com/@intimanjunath/anime-face-generation-with-gans-5aacab45022b 
+* Chatgpt chat transcript: https://chatgpt.com/share/66ee1f86-b960-800d-8959-34685be8f059 
   
 Getting Started
 Follow these instructions to run the project on your local machine or directly in Google Colab.
