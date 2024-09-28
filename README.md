@@ -30,24 +30,18 @@ pip install torch torchvision Pillow pytorch-fid
 Dataset
 The dataset used for this project is a collection of anime faces. You can download a suitable dataset, such as Anime Face Dataset, and extract it into the /content/extracted_images/ directory.
 
-Running the Project
+
 Clone this repository:
+* git clone ->>
+* cd anime-face-gan
+* Prepare your dataset by extracting it to the extracted_images/ folder.
+* Run the training script: python train_gan.py
 
-git clone ->>
-cd anime-face-gan
-Prepare your dataset by extracting it to the extracted_images/ folder.
-
-Run the training script:
-python train_gan.py
 Alternatively, you can use the Google Colab notebook:
 Anime Face GAN - Colab Notebook
 
-
 Evaluating Performance
-After training, you can compute the FID score to evaluate the quality of the generated images:
-
-python calculate_fid.py --real-dir /path/to/real_images --fake-dir /path/to/generated_images
-
+After training, you can compute the FID score to evaluate the quality of the generated images: python calculate_fid.py --real-dir /path/to/real_images --fake-dir /path/to/generated_images
 
 Results
 The generated anime faces can be visualized in real-time as the GAN trains. Here are some sample images after training:
