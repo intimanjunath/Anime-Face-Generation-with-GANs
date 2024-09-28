@@ -24,12 +24,11 @@ torchvision
 Pillow
 pytorch-fid
 
-Install the dependencies using:
-
-pip install torch torchvision Pillow pytorch-fid
+Install the dependencies using: pip install torch torchvision Pillow pytorch-fid
 
 Dataset
 The dataset used for this project is a collection of anime faces. You can download a suitable dataset, such as Anime Face Dataset, and extract it into the /content/extracted_images/ directory.
+https://www.kaggle.com/datasets/splcher/animefacedataset
 
 
 Clone this repository:
