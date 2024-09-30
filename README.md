@@ -53,5 +53,3 @@ Additionally, you can watch the progression of the generated images over epochs 
 * Video link: https://github.com/intimanjunath/Anime-Face-Generation-with-GANs-Real-time-chat-Application/blob/main/gans_training.mp4 
 * Youtube link : https://youtu.be/BCGHF8G9K-8
 
-
-# Assignment 2 - Real-time-chat-Application 
