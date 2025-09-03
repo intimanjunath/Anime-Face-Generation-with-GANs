@@ -1,4 +1,4 @@
-# Assignment 1 - Anime-Face-Generation-with-GANs
+#Anime-Face-Generation-with-GANs
 
 This repository contains the code for training a Generative Adversarial Network (GAN) to generate anime-style faces. The project uses PyTorch and torchvision for building and training the models. Below you'll find instructions on how to set up the project, a brief explanation of how the GAN works, and links to the Colab notebook and demonstration video.
 
